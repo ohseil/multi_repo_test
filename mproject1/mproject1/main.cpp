@@ -8,5 +8,7 @@ int main() {
 
 	cout << "update p1." << endl;
 
+	cout << "second update p1." << endl;
+
 	return 0;
 }
